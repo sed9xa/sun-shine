@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 import dreadlocksAbout from '@/components/dreadlocksAbout'
 import headerBlock from '@/components/headerBlock'
-import masteAbout from '@/components/masterAbout'
+import masterAbout from '@/components/masterAbout'
 
 
 const routes = [
@@ -16,7 +16,7 @@ const routes = [
   },
   {
     path: '/masterAbout',
-    component: masteAbout,
+    component: masterAbout,
   }
 ]
 

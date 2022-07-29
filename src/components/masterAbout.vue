@@ -1,7 +1,7 @@
 <template>
   <div class="about__wrapper">
     <section class="about">
-        <div class="qwe">wewe</div>
+       
     </section>
   </div>
 </template>
